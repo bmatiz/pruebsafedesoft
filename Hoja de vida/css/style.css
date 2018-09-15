@@ -1,0 +1,38 @@
+       
+
+    	h1{
+    		color: blue;
+
+            border: 1px solid black;
+    		}
+
+       html{
+       	 background: #1ABC9C;
+       }
+
+      p{
+      	text-align: center;
+
+      }
+
+     legend{
+     	font-size:25px;
+     }
+
+
+     legend:hover,
+     legend:active,
+     legend:focus{
+    		font-size:30px;
+    		color: blue;
+
+    	}
+
+     fieldset{
+    		
+    		border-radius: 20px;
+    		border-color: #1ABC9C;
+    		
+    	}  	
+       	
+       	
